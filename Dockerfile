@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-=======
 # Use an official Python runtime as a parent image
->>>>>>> f117a5d (Added Dockerfile and Github actions workflow)
+f117a5d (Added Dockerfile and Github actions workflow)
 FROM python:3.9
 
 # Set the working directory in the container
